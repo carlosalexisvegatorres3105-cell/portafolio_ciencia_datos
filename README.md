@@ -1,4 +1,4 @@
-Portafolio de Ciencia de Datos & Analítica Avanzada
+Portafolio de Ciencia de Datos
 
 Bienvenido a mi espacio profesional. Este repositorio consolida las fuentes de datos, los desarrollos analíticos, las visualizaciones interactivas y la documentación estratégica creados durante mi formación en Ciencia de Datos con EBAC.
 
